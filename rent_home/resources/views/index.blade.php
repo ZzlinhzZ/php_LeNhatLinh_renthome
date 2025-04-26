@@ -12,7 +12,7 @@
     <table>
         <input type="text" name="name" id="name">
         <button type="submit" id="search">Search</button>
-        <tr style="text-align: center"  ">
+        <tr style="text-align: center"  >
             <th>id</th>
             <th>Name</th>
             <th>Phone</th>
